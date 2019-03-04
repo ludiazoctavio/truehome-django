@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9b7f3988-45cb-4eea-a006-f576cefc6a85" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/truehome/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/truehome/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,8 +15,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/truehome/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="164">
-              <caret line="136" lean-forward="true" selection-start-line="136" selection-end-line="136" />
+            <state relative-caret-position="419">
+              <caret line="153" column="1" selection-start-line="153" selection-start-column="1" selection-end-line="153" selection-end-column="1" />
               <folding>
                 <element signature="e#309#318#0" expanded="true" />
               </folding>
@@ -256,8 +256,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/truehome/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="164">
-          <caret line="136" lean-forward="true" selection-start-line="136" selection-end-line="136" />
+        <state relative-caret-position="419">
+          <caret line="153" column="1" selection-start-line="153" selection-start-column="1" selection-end-line="153" selection-end-column="1" />
           <folding>
             <element signature="e#309#318#0" expanded="true" />
           </folding>
